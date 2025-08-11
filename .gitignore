@@ -21,3 +21,7 @@ test_imports.py
 .vscode/
 .DS_Store
 Thumbs.db
+
+# baces de datos
+instance/
+*.db
