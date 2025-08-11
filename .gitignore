@@ -1,4 +1,23 @@
+# 🔥 Python & Flask
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# ⚙️ Configuración local
 .env
+instance/
+
+# 🧪 Archivos temporales o de prueba
+*.bak
+*.swp
+test_db.py
+test_imports.py
+
+# 🖥️ Editor y sistema
 .vscode/
+.DS_Store
+Thumbs.db
